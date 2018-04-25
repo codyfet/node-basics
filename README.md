@@ -62,7 +62,6 @@ console.log(utils.sum(2, 2));
 #### 7. Установить пакет локально.
 ```
 npm install --save console-log-hello-world
-
 ```
 
 C ключом `--save` пакет устанавливается в секцию `dependencies`.
